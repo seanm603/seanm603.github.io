@@ -1,1 +1,1 @@
-# seanm603.github.io
+# Arch Linux Installation Tutorial
