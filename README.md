@@ -1,4 +1,4 @@
-# seanm603.github.io
+# seanm603.com
 
 ## Description
 Half an ass at best. Whole ass at worst.
@@ -16,10 +16,9 @@ Half an ass at best. Whole ass at worst.
 This repository contains the source code for my personal GitHub Pages site. It is a simple HTML-based website showcase my interests.
 
 ## Features
-- Responsive design
-- Easy to navigate
-- Clear and concise information
-- Links to projects and social media
+- Janky code
+- No information (yet)
+- Links to projects
 
 ## Installation
 To run this website locally, follow these steps:
