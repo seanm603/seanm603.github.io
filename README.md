@@ -1,7 +1,7 @@
 # seanm603.com
 
 ## Description
-Half an ass at best. Whole ass at worst.
+This is a personal webpage that is designed to be as helpful to [Sean](person.md) as possible.
 
 ## Table of Contents
 - [Introduction](#introduction)
